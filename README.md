@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Liri Sobol</h1>
-<h3 align="center">Im A Fullstack Developer.</h3>
+<h1 align="center">I'm Liri Sobol</h1>
+<h3 align="center">Fullstack Developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lirisobol" alt="lirisobol" /></a> </p>
 
